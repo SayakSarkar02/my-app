@@ -1,5 +1,5 @@
 # Running Application
-TextUtils(https://sayaksarkar02.github.io/my-app/)
+[TextUtils](https://sayaksarkar02.github.io/my-app/)
 
 # Getting Started with Create React App
 
